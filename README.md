@@ -21,7 +21,7 @@
 - Discord:
   [tete_1212](https://discord.com/users/801798242894741545)
 - Github:
-  [tomochann12-github](https://github.com/tomochann12-github)
+  [tomochapee12](https://github.com/tomochapee12)
 
 ## Other その他
 
