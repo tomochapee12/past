@@ -13,7 +13,7 @@
 
 ## Accounts アカウント
 
-- Gmail:
+- Mail:
   tomoch123456?gmail!com
   (`!`->`.`,`?`->`@`)
 - Twitter:
