@@ -16,8 +16,10 @@
 - Mail:
   tomoch123456?gmail!com
   (`!`->`.`,`?`->`@`)
+- Blsk:
+  [satesate12](https://bsky.app/profile/satesate12.bsky.social)
 - Twitter:
-  [@tomochann12](https://twitter.com/tomochann12)
+  [@tomochann12](https://twitter.com/tomochann12) RTbotと化してる
 - Discord:
   [tete_1212](https://discord.com/users/801798242894741545)
 - Github:
