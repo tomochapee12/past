@@ -23,7 +23,7 @@
 - Discord:
   [tete_1212](https://discord.com/users/801798242894741545)
 - Github:
-  [tomochapee12](https://github.com/tomochapee12)
+  [tete](https://github.com/tomochapee12)
 
 ## Other その他
 
