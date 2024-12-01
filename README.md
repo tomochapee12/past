@@ -16,7 +16,7 @@
 - Mail:
   tomoch123456?gmail!com
   (`!`->`.`,`?`->`@`)
-- Blsk:
+- Bsky:
   [satesate12](https://bsky.app/profile/satesate12.bsky.social)
 - Twitter:
   [@tomochann12](https://twitter.com/tomochann12) RTbotと化してる
