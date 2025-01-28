@@ -1,0 +1,20 @@
+fib(n){
+  if n == 1 then return 1; endif;
+  if n == 2 then return 2; endif;
+  return fib(n - 1) + fib(n - 2);
+}
+
+main {
+  var i, j;
+
+  read i;
+  j := 1;
+
+  while i>0 do {
+    write fib(j);
+    writeln;
+    j := j + 1;
+    i := i - 1;
+  }
+}
+

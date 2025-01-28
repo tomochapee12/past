@@ -1,0 +1,31 @@
+main{
+  var i, j;
+
+  i := 3;
+  j := 4;
+
+  write i;
+  writeln;
+
+  write j;
+  writeln;
+
+  {
+    var i, j;
+
+    i := 5;
+    j := 6;
+
+    write i;
+    writeln;
+
+    write j;
+    writeln;
+  }
+
+  write i;
+  writeln;
+
+  write j;
+  writeln;
+}
