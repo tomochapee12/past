@@ -1,0 +1,16 @@
+Makefile
+linkedlist.c
+linkedlist2.c
+list.c
+list.h
+sem0.l        アクションなし
+sem0.y        アクションなし
+sem.l         完成版
+sem.y         完成版
+sample.sem	  sem のサンプル
+yywraperror.c yywrap, yyerrorのため
+
+
+$ make
+$ ./sem < sample.sem
+

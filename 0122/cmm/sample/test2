@@ -1,0 +1,15 @@
+f(x){
+  var i, j, k;
+  i:=10;
+  j:=22;
+  k:=33;
+  return i+j+k;
+}
+
+main{
+  var x;
+  read x;
+
+  write f(x);
+  writeln;
+}

@@ -1,0 +1,20 @@
+cmm compiler
+
+2004.08.19
+Hisashi Nakai
+
+This compiler has been developed for a lecture of compilers
+at University of Library and Information Science, and
+University of Tsukuba. 
+The cmm (C minus minus) language has C-like syntax and
+this compiler is implemented using Yacc and Lex
+
+This compiler reads a source program via standard input
+and emit the code for an interpreter which is altered
+the pl0 machine in a compiler text book [1].
+It emits the code to a file named "code.output".
+You can execute the code with pl0i command,
+which is the interpreter at the directory the code is in.
+
+[1] Masataka Sassa : Programming Language Processors,
+    Iwanami Shoten, 1988 (written in Japanese).
